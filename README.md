@@ -1,10 +1,9 @@
-### Hi, I'm Jolly.Liu. 👋
+### Welcome to MEWWW's GitHub 👋
 
-- 🔭 I’m now working for TAL.
-- 🌱 I’m a pupil of front-end learning. 
-- 🤔 I’m currently coding in Javascript PHP and C#.
-- ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
-- 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/ThinkingThigh/issues).
+- 🔭 I’m now a student of FZU.
+- 🌱 I’m a pupil of full-stack learning. 
+- 🤔 I’m currently coding in Kotlin Vue Java and C++.
+- 💬 Be free to ask me about anything [here](https://github.com/ROBINRUGAN/ROBINRUGAN/issues).
 
 ### My Contributions
 ![](https://raw.githubusercontent.com/ROBINRUGAN/ROBINRUGAN/main/assets/github-contribution-grid-snake.svg)
