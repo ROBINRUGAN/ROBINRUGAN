@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Jolly.Liu. 👋
 
-<!--
-**ROBINRUGAN/ROBINRUGAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m now working for TAL.
+- 🌱 I’m a pupil of front-end learning. 
+- 🤔 I’m currently coding in Javascript PHP and C#.
+- ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.
+- 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/ThinkingThigh/issues).
 
-Here are some ideas to get you started:
+### My Contributions
+![](https://raw.githubusercontent.com/ROBINRUGAN/ROBINRUGAN/main/assets/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ROBINRUGAN&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBINRUGAN&hide_border=true">
