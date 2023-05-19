@@ -6,6 +6,6 @@
 ### My Contributions
 ![](https://raw.githubusercontent.com/ROBINRUGAN/ROBINRUGAN/main/assets/github-contribution-grid-snake.svg)
 <div>
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=ROBINRUGAN&show_icons=true&hide_border=true&hide_title=true">
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBINRUGAN&hide_border=true&layout=compact&hide_title=true">
+  <img align="left" height="160px"  src="https://github-readme-stats.vercel.app/api?username=ROBINRUGAN&show_icons=true&hide_border=true">
+  <img align="right" height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBINRUGAN&hide_border=true&layout=compact">
 <div/>
