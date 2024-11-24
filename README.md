@@ -1,7 +1,6 @@
 ### Welcome to MEWWW's GitHub 👋
 - 🔭 I’m now a student of FZU.
-- 🌱 I’m a pupil of full-stack learning. 
-- 🤔 I’m currently coding in Kotlin Vue Java and C++.
+- 🤔 I’m currently coding in Vue Java Python and P4.
 - 💬 Be free to ask me about anything [here](https://github.com/ROBINRUGAN/ROBINRUGAN/issues).
 ### My Contributions
 <div>
